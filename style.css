@@ -1,0 +1,15 @@
+/* <!--
+File: style.css
+GUI Assignment 1: Creating Your First Web Page
+Anh Nguyen, UMass Lowell Computer Science, anh_nguyen9@student.uml.edu
+Copyright (c) 2021 by Anh NguyenS. All rights reserved. May be freely copied or
+excerpted for educational purposes with credit to the author.
+updated by AN on May 28, 2021 at 1:30 AM
+--> */
+
+body{
+    text-align:center;
+    background-color:blue;
+    color:white;
+    padding: 10px;
+}
